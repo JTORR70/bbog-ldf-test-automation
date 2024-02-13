@@ -1,0 +1,15 @@
+userName: jtorr_fjloOk
+accessKey: JGV2smKhxBTmfm7r21jF
+framework: junit4
+platforms:
+  - os: Windows
+    osVersion: 11
+    browserName: Chrome
+    browserVersion: latest
+buildName: LineasDeFacturas_
+projectName: Lineas De Facturas
+buildIdentifier: 'ValDispositivos'
+geoLocation: CO
+local: true
+debug: true
+networkLogs: true
